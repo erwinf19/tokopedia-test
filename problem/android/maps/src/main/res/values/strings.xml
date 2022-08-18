@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps">Maps</string>
+    <string name="countryName">Nama Negara:</string>
+    <string name="capital">Ibukota Negara:</string>
+    <string name="population">Jumlah Penduduk:</string>
+    <string name="callCode">Kode Panggilan:</string>
+</resources>
